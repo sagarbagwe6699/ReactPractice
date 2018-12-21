@@ -1,0 +1,18 @@
+.my__input{
+  outline: none;
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid #FF4081;
+}
+.my__inp{
+  color: #ffffff;
+}
+.my__card{
+  width: 600px;
+  height: 80px;
+  background: #FFFFFF;
+}
+.my__btn{
+  background: #FF4081;
+  color: #FFFFFF;
+}
